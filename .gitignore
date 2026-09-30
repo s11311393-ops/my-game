@@ -1,0 +1,13 @@
+# 作業系統與系統暫存檔
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.tmp
+*.log
+
+# 編輯器與 IDE 設定檔
+.vscode/
+.idea/
+*.swp
+*.swo
